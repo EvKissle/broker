@@ -54,7 +54,7 @@
     "snyk-config": "^2.2.0",
     "then-fs": "^2.0.0",
     "tunnel": "0.0.4",
-    "undefsafe": "^2.0.2",
+    "undefsafe": "^2.0.3",
     "uuid": "^3.3.2"
   },
   "repository": {
