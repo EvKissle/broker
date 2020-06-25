@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "body-parser": "^1.18.3",
-    "bunyan": "^1.8.12",
+    "bunyan": "^1.8.13",
     "camelcase": "^5.0.0",
     "clarify": "^2.0.0",
     "clite": "^0.3.0",
