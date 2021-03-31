@@ -38,7 +38,7 @@
     "clarify": "^2.0.0",
     "clite": "^0.3.0",
     "dotenv": "^6.0.0",
-    "ejson": "^2.1.2",
+    "ejson": "^2.2.0",
     "engine.io": "^3.2.0",
     "engine.io-client": "^3.2.1",
     "express": "^4.16.3",
