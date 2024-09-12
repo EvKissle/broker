@@ -32,7 +32,7 @@
     "tmp": "0.0.33"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.3",
     "bunyan": "^1.8.12",
     "camelcase": "^5.0.0",
     "clarify": "^2.0.0",
@@ -41,7 +41,7 @@
     "ejson": "^2.1.2",
     "engine.io": "^3.2.0",
     "engine.io-client": "^3.2.1",
-    "express": "^4.16.3",
+    "express": "^4.21.0",
     "js-yaml": "^3.12.0",
     "lodash.escaperegexp": "^4.1.2",
     "lodash.mapvalues": "^4.6.0",
