@@ -50,7 +50,7 @@
     "primus": "^6.0.1",
     "primus-emitter": "^3.1.1",
     "qs": "^6.5.2",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "snyk-config": "^2.2.0",
     "then-fs": "^2.0.0",
     "tunnel": "0.0.4",
