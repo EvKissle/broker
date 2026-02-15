@@ -32,7 +32,7 @@
     "tmp": "0.0.33"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.4",
     "bunyan": "^1.8.12",
     "camelcase": "^5.0.0",
     "clarify": "^2.0.0",
@@ -41,7 +41,7 @@
     "ejson": "^2.1.2",
     "engine.io": "^3.2.0",
     "engine.io-client": "^3.2.1",
-    "express": "^4.16.3",
+    "express": "^4.22.0",
     "js-yaml": "^3.12.0",
     "lodash.escaperegexp": "^4.1.2",
     "lodash.mapvalues": "^4.6.0",
@@ -49,7 +49,7 @@
     "path-to-regexp": "^1.5.3",
     "primus": "^6.0.1",
     "primus-emitter": "^3.1.1",
-    "qs": "^6.5.2",
+    "qs": "^6.14.2",
     "request": "^2.88.0",
     "snyk-config": "^2.2.0",
     "then-fs": "^2.0.0",
